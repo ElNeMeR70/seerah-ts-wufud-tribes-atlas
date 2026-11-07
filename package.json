@@ -1,0 +1,11 @@
+{
+  "name": "seerah-ts-wufud-tribes-atlas",
+  "version": "1.0.0",
+  "description": "Year of Delegations (9 AH 'Am Al-Wufud) Arabian Tribal GIS Atlas (أطلس وفود القبائل العربية في عام الوفود)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
